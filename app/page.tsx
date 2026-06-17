@@ -1,1 +1,1 @@
-export default function Home() { return <h1>Welkom bij VacationWeb</h1>; }
+export default function Page() { return <div>Welkom bij VacationWeb</div>; }

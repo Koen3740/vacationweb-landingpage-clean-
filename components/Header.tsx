@@ -1,1 +1,1 @@
-export default function Header() { return <header>Header</header>; }
+// Dummy header component
